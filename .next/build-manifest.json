@@ -1,0 +1,53 @@
+{
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/I3TVMWX2tRhu8Esjv855G/_buildManifest.js",
+    "static/I3TVMWX2tRhu8Esjv855G/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/036542421a57701f6da22b3c6510c5238e877778.a1a019ce3158294c8679.js",
+      "static/runtime/main-3f02e21f77ae70c12cba.js"
+    ],
+    "/404": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/runtime/main-3f02e21f77ae70c12cba.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/036542421a57701f6da22b3c6510c5238e877778.a1a019ce3158294c8679.js",
+      "static/css/d4835278c594db47fde4.css",
+      "static/runtime/main-3f02e21f77ae70c12cba.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/runtime/main-3f02e21f77ae70c12cba.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-283772482f0035efccb9.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/036542421a57701f6da22b3c6510c5238e877778.a1a019ce3158294c8679.js",
+      "static/runtime/main-3f02e21f77ae70c12cba.js"
+    ],
+    "/list": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/css/1525c4de029307496c7b.css",
+      "static/runtime/main-3f02e21f77ae70c12cba.js"
+    ],
+    "/post/[id]": [
+      "static/runtime/webpack-c212667a5f965e81e004.js",
+      "static/chunks/framework.c6faae2799416a6da8e8.js",
+      "static/chunks/036542421a57701f6da22b3c6510c5238e877778.a1a019ce3158294c8679.js",
+      "static/runtime/main-3f02e21f77ae70c12cba.js"
+    ]
+  }
+}
